@@ -1,2 +1,2 @@
 # DVector
-Distributed Vector Lib based on MPI
+Distributed Vector Lib based on MPI.
